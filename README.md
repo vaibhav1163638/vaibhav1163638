@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Vaibhav  <br>💻 Full-stack developer & builder  <br>🤖 Exploring AI, automation & stock-tech systems  <br>⚡ Working with Next.js, APIs & n8n
+👋 Hey, I'm Vaibhav Gupta  <br>💻 Full-stack developer & builder  <br>🤖 Exploring AI, automation & stock-tech systems  <br>⚡ Working with Next.js, APIs & n8n
 
 
 ## 🌐 Socials:
